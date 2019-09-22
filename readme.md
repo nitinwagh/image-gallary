@@ -9,7 +9,7 @@
 
 ## Step To Follow
 
-1) Cloce repository https://github.com/nitinwagh/image-gallary.git
+1) Clone repository https://github.com/nitinwagh/image-gallary.git
 2) Rename .env.example file to .env file and add database credentilas
 3) Run following commands
     <p> a) composer install </p>
@@ -17,15 +17,7 @@
     <p> c) php artisan migrate </p>
     <p> d) php artisan storage:link </p>
     <p> e) php artisan serve </p> 
-4) Open in your browser http://127.0.0.1:8000
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+4) Open in your browser <a href="http://127.0.0.1:8000">http://127.0.0.1:8000</a>
 
 ## License
 

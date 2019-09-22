@@ -12,10 +12,10 @@
 1) Cloce repository https://github.com/nitinwagh/image-gallary.git
 2) Edit .env file and add database credentilas
 3) Run following commands
-    a) composer install
-    b) php artisan ui:auth --view
-    c) php artisan migrate
-    d) php artisan serve
+    <p> a) composer install </p>
+    <p> b) php artisan ui:auth --view </p>
+    <p> c) php artisan migrate </p>
+    <p> d) php artisan serve </p> 
 4) Open in your browser http://127.0.0.1:8000
 
 ## Contributing
